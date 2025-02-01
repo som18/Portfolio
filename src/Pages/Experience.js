@@ -51,7 +51,8 @@ function Experience() {
           1. Having experience in Troubleshooting on code bases and application bugs and do set up automated alert to monitor application.<br/>
           2. Efficiently deal with client to understand their requirements and meet the same with my technical expertise.<br/>
           3. Implement cost optimization ideas for azure resources to optimize cost up to 1000 AUD for our organization.<br/>
-          4. Build lightning components using JavaScript. I have experience to work in salesforce CPQ and build backend logics and test cases using Apex.
+          4. Build lightning components using JavaScript. I have experience to work in salesforce CPQ and build backend logics and test cases using Apex.<br/>
+          5. Build and integrated an API in a bidding system which enhance the system performance and makes traders life faster.
           </p>
         </VerticalTimelineElement>
       </VerticalTimeline>
