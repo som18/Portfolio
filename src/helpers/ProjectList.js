@@ -3,6 +3,7 @@ import textconvo from '../assets/textconvo.png';
 import digitalclock from '../assets/digitalclock.png'
 import food from '../assets/Food_Ordering.png';
 import chatting from '../assets/chatting.png'
+import bmical from '../assets/bmical.png';
 
 export const ProjectList =[
     {
@@ -14,6 +15,11 @@ export const ProjectList =[
         name: "Chat Application - TalkTime",
         image: chatting,
         skills: "React, Node, Express, Socket.io, MomgoDB, API, JavaScript"
+    },
+    {
+        name: "BMI Calculator",
+        image: bmical,
+        skills: "Javascript, Salesforce LWC, Experience Builder, SLDS Library"
     },
     {
         name: "News App",

@@ -48,7 +48,7 @@ function Home() {
         <h2 className="title">&lt;&gt;Hi, I am Sombuddha&lt;/&gt;</h2>
         <div className="prompt">
           <p>
-           A Software Developer Driven to Turn Ideas into Digital Reality
+           A Salesforce Developer Driven to Turn Ideas into Digital Reality
           </p>
           <div className="icon">
             <a href="https://www.linkedin.com/in/sombuddha-biswas-858740244/" target="_blank" rel="noopener noreferrer">
