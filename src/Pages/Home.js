@@ -87,7 +87,7 @@ function Home() {
           <li className="item">
             <h2>Platform Knowledge</h2>
             <span>
-              Salesforce CPQ, Visualforce, Apex, LWC
+              Salesforce CPQ, Visualforce, Apex, LWC, Sales Cloud, Data Cloud, Service Cloud
             </span>
           </li>
         </ol>
